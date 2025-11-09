@@ -4,6 +4,9 @@
 This project presents a **comprehensive Tableau dashboard** analyzing the sales and profitability performance of **D&D Company**.  
 The goal was to deliver **executive-level insights** into key business metrics — including sales, profit, customer segments, product categories, and regional performance — to support data-driven strategic decisions.
 
+## 📎 Dashboard Preview
+> 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kofi.obeng.nti/viz/DDSalesAndProfitPerfrormace/SalesandProfitPerformance)
+
 The analysis integrates **two datasets (Orders & Returns)** and focuses on uncovering trends, top-performing products, and underperforming regions to improve profitability and operational efficiency.
 
 ---
@@ -34,6 +37,9 @@ The project aimed to:
 | 💹 **Average Profit Margin** | 11.64% |
 | 🧭 **Regions Analyzed** | Central, East, South, West |
 | 🔄 **Return Rate** | Derived from Orders joined with Returns dataset |
+
+## 📎 Dashboard Preview
+ <img width="1920" height="1113" alt="Image" src="https://github.com/user-attachments/assets/6e599772-68db-4d69-9cc1-72f0d8236e1d" />
 
 ---
 
